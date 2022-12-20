@@ -1,0 +1,9 @@
+
+
+Name:  mahindra
+Model:   2022
+Price   :200000
+
+Name:  pulsar
+Model:   2022
+Price   :2000000
